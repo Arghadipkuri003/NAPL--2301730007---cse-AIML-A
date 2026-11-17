@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="FSharpCRUD">
+    <resource name="FSharpSignatureData.FSharpCRUD" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.FSharpCRUD" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.FSharpCRUD" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.FSharpCRUD" action="remove"></resource>
+    <resource name="FSharpOptimizationData.FSharpCRUD" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.FSharpCRUD" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.FSharpCRUD" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.FSharpCRUD" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.FSharpCRUD" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.FSharpCRUD" action="remove"></resource>
+  </assembly>
+</linker>
