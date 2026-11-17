@@ -1,0 +1,30 @@
+# Build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Database files
+*.db
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# .NET
+*.user
+*.suo
+
+# Clojure cache
+.clj-kondo/
+.calva/
+.lsp/
+.nrepl-port
+target/
